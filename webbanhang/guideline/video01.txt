@@ -1,0 +1,22 @@
+I) phân tích dự án :
+Frontend:
+    trang chủ 
+    trang danh sách sản phẩm 
+    chi tiết sản phẩm 
+    giỏ hàng
+    checkout
+    thanh toán hoàn thành
+    liên hệ
+-admin
+    tài khoản người dùng 
+        quản lý role(admin,user)
+        quản lý người dùng :admin/user  
+            hiển thị danh sách/thêm/xóa/sửa 
+        đăng ký tài khoản 
+        đăng nhâp
+    quản lý danh mục sản phẩm 
+    quản lý sản phẩm 
+    quản lý đơn hàng 
+        hiển thị được danh sách đơn hàng -> hiển thị giảm dần theo thời gian
+            (quản lý được trạng thái đơn hàng)
+    quản lý phản hồi 
